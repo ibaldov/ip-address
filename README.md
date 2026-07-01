@@ -58,7 +58,7 @@ ____
 # Поиск ip адресов по доменам 
 
 Введите домены и нажмите **Найти IP**
-[https://rockblack.pro/ip-address](https://rockbl.info/)
+https://rockbl.info/
 
 
 ![Screenshot](https://rockblack.pro/images/github/Screenshot_10.jpg)
